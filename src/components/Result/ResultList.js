@@ -107,7 +107,7 @@ const ResultList = () => {
           postsPerPage={postsPerPage}
           totalPosts={posts.length}
           paginate={paginate}
-          max-size="10"
+
         />
       </div>
     </div>
